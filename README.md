@@ -10,4 +10,4 @@ Here are the preview of site.
 
 [Here you can see the Demo](https://feedback-ui-nafisbd.netlify.app/)
 
-Coded by [Nafis Mahmud Ayon](https://github.com/NafisMahmudAyon). ©2023 [NafisBD](https://nafisbd.com/). All right reserved
+Coded by [Nafis Mahmud Ayon](https://github.com/NafisMahmudAyon). ©2023 [NafisBD](https://nafisbd.com/). All right reserved.
